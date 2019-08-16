@@ -1,0 +1,5 @@
+#Ignore trajectory data
+*.dcd
+*.parm7
+*.psf
+
